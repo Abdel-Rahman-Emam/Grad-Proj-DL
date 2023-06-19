@@ -1,0 +1,13 @@
+streamlit_option_menu
+datetime
+gtts
+firebase_admin
+opencv-python==4.5.5.64
+opencv-contrib-python==4.7.0.72
+streamlit
+streamlit-webrtc
+numpy==1.24.3
+mediapipe==0.10.1
+tensorflow==2.10.0
+pyttsx3==2.90
+googletrans==4.0.0rc1
