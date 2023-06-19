@@ -30,12 +30,10 @@ ASL Translator is an application that translates American Sign Language (ASL) ge
 
 You can find the project on GitHub: [Grad-Proj-DL](https://github.com/Abdel-Rahman-Emam/Grad-Proj-DL.git)
 
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Please see the `LICENSE` file for more details.
 
 ## Contact
 
-For questions or inquiries about the project, please contact [hazemahmedyoussef0@gmail.com](mailto:hazemahmedyoussef0@gmail.com).
+For questions or inquiries about the project, please contact [hazemahmedyoussef0@gmail.com](mailto:hazemahmedyoussef0@gmail.com) or 
+[abdulrahmankassab.1@gmail.com](mailto:abdulrahmankassab.1@gmail.com).
 
 Feel free to customize this README file to include any additional information or sections that are relevant to your project.
