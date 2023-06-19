@@ -35,5 +35,3 @@ You can find the project on GitHub: [Grad-Proj-DL](https://github.com/Abdel-Rahm
 
 For questions or inquiries about the project, please contact [hazemahmedyoussef0@gmail.com](mailto:hazemahmedyoussef0@gmail.com) or 
 [abdulrahmankassab.1@gmail.com](mailto:abdulrahmankassab.1@gmail.com).
-
-Feel free to customize this README file to include any additional information or sections that are relevant to your project.
